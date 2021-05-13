@@ -1,6 +1,6 @@
 ## About me
 
-![banner](https://github.com/mukaya/mukaya/blob/master/assets/mukaya.png)
+![banner](https://github.com/mukaya/mukaya/blob/main/assets/mukaya.png)
 
 I am a young developer, passionate about the technologies of the web.
 
